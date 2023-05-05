@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working to improve my skills on **JavaScript,Ruby on Rails,Ruby**
 
-- 🌱 I’m currently learning **React, JavaScipt**
+- 🌱 I’m currently learning **React, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/mihaiadriancosmin](https://troopl.com/mihaiadriancosmin)
 
