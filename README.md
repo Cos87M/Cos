@@ -1,7 +1,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Cos87M&theme=fresh&no-bg=true" />
 
 <h1 align="center">Hi 👋, I'm Adrian Mihai</h1>
-<h3 align="center">Junior Full-Stack Developer with a background experience in logistics</h3>
+<h3 align="center"> Junior Web Developer with a background experience in logistics</h3>
 
 - 🔭 I’m currently working to improve my skills on **JavaScript,Ruby on Rails,Ruby**
 
