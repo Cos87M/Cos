@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Adrian Mihai</h1>
 <h3 align="center"> Junior Web Developer with a background experience in logistics</h3>
 
-- 🔭 I’m currently working to improve my skills on **JavaScript,Ruby on Rails,Ruby**
+- 🔭 I’m currently working to improve my skills on **JavaScript**
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React, JavaScript and Python**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/mihaiadriancosmin](https://troopl.com/mihaiadriancosmin)
 - 📄 Check out my CV at [https://flowcv.com/app/resume/content](https://flowcv.com/resume/41kl0hpdsv)
